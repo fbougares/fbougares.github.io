@@ -101,11 +101,11 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/background.jpg") no-repeat;
+  background: url("../img/back_sun.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 220px 0;
+  padding: 200px 0 180px 0;
   position: relative;
 }
 #slider:before {
