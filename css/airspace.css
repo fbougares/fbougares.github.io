@@ -74,7 +74,6 @@ header {
   padding: 20px 0;
 }
 header .navbar {
-  position: fixed;
   margin-bottom: 0px;
   border: 0px;
 }
@@ -96,6 +95,8 @@ header .navbar-default .navbar-nav li a {
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
+#mobile-navigation { position: fixed; top: 0; left: 0; z-index: 5; }
+
 /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
