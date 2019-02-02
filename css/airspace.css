@@ -154,6 +154,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block p {
   color: #7B7B7B;
   text-align: justify; 
+  text-justify: inter-word;
   padding-top: 20px;
 }
 #intro .block img {
@@ -189,6 +190,8 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #888;
   padding-top: 10px;
   margin: 0;
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 14px;
   line-height: 1.8;
 }
@@ -223,6 +226,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 14px;
   line-height: 1.6;
 }
@@ -820,6 +825,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #lang-header .block p {
   font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: opx;
@@ -1006,6 +1013,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #wrapper-lang ul li .items-text p {
   padding-top: 30px;
   font-size: 16px;
+  text-align: justify;
+  text-justify: inter-word;
   line-height: 27px;
   font-weight: 300;
   padding-right: 80px;
