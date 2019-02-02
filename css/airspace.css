@@ -106,8 +106,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/back_sun.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  background-position: 60% 0%;
+  padding: 0 0 0 0;
   position: relative;
 }
 #slider:before {
@@ -198,7 +198,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/travels.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding: 70px 0px;
+  padding: 100px 0px;
   position: relative;
   text-align: center;
   color: #fff;
