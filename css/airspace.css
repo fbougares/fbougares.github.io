@@ -1037,6 +1037,33 @@ font header .navbar-default .navbar-nav li a:hover {
 					Work Close
 ------------------------------------------------------------------------------*/
 
+/*--
+	wrapper project Start
+--*/
+#project {
+  padding: 100px 0;
+}
+#project .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#project .block p {
+  color: #7B7B7B;
+  text-align: justify; 
+  text-justify: inter-word;
+  padding-top: 20px;
+}
+#project .block img {
+  padding-left: 20px;
+  width: 120%;
+}
+#project .section-title {
+  margin-bottom: 0px;
+}
+#project .section-title p {
+  padding-top: 20px;
+}
 
 
 
