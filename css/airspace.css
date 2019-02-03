@@ -1055,6 +1055,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
 }
 #project .block img {
+  padding-top: 60px;
   padding-left: 20px;
   width: 120%;
 }
