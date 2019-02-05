@@ -132,8 +132,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
-  padding-top: 60px;
-  padding-bottom: 40px;
+  padding-top:  100px;
+  padding-bottom: 100px;
 }
 #slider .block p {
   font-size: 23px;
@@ -1079,12 +1079,21 @@ publication lists
 #publication {
   padding: 100px 0;
 }
+#publication .rounded-list ol {
+    counter-reset: li; /* Initiate a counter */
+    list-style: none; /* Remove default numbering */
+    *list-style: decimal; /* Keep using default numbering for IE6/7 */
+    font: 15px 'trebuchet MS', 'lucida sans';
+    padding: 0;
+    margin-bottom: 4em;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
 
 #publication .rounded-list a{
     position: relative;
     display: block;
-    padding: .4em .4em .4em 2em;
-    *padding: .4em;
+    padding: .6em .6em .6em 6em;
+    *padding: .6em;
     margin: .5em 0;
     background: #ddd;
     color: #444;
@@ -1095,6 +1104,8 @@ publication lists
 
 #publication .rounded-list a:hover{
     background: #eee;
+    color : #154360;
+    font-size: 15px;
 }
 
 #publication .rounded-list a:hover:before{
