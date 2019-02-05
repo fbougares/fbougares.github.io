@@ -1078,6 +1078,8 @@ publication lists
 --------------------*/
 #publication {
   padding: 100px 0;
+  background-color: rgb(180, 180, 180);
+
 }
 
 #publication ol {
@@ -1086,13 +1088,15 @@ publication lists
  }
 #publication li {
    counter-increment: item;
-   margin-bottom: 5px;
+   margin-bottom: 15px;
  }
 #publication li:before {
-   margin-right: 10px;
+   margin-right: 20px;
+   font-size: 80%;
+   font-weight: bold;
    content: counter(item);
-   background: lightblue;
-   border-radius: 100%;
+   background-color: rgb(180, 180, 180); 
+   border-radius: 11px;
    color: white;
    width: 1.2em;
    text-align: center;
