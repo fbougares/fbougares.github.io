@@ -1085,9 +1085,10 @@ publication lists
     *list-style: decimal; /* Keep using default numbering for IE6/7 */
     font: 15px 'trebuchet MS', 'lucida sans';
     padding: 0;
-    margin-bottom: 4em;
+    margin-bottom: 6em;
     text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
+
 
 #publication .rounded-list a{
     position: relative;
@@ -1118,7 +1119,7 @@ publication lists
     position: absolute; 
     left: -1.3em;
     top: 50%;
-    margin-top: -1em;
+    margin-top: -1.3em;
     background: #87ceeb;
     height: 3em;
     width: 3em;
@@ -1126,7 +1127,7 @@ publication lists
     border: .3em solid #fff;
     text-align: center;
     font-weight: bold;
-    border-radius: 2em;
+    border-radius: 3em;
     transition: all .3s ease-out;
 }
 
