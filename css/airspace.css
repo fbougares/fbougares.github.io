@@ -797,8 +797,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #lang-header {
   background: url("../img/ar_slider.jpg") no-repeat;
   background-size: cover;
-  padding-top: 280px;
-  padding-bottom: 280px;
+  padding-top: 350px;
+  padding-bottom: 450px;
   position: relative;
   background-attachment: fixed;
 }
