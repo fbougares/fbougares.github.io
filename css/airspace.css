@@ -153,6 +153,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block p {
   color: #7B7B7B;
+  font-family: 'Saira';
+  font-style: 'Regular';
+  font-weight: 400;
   text-align: justify; 
   text-justify: inter-word;
   padding-top: 20px;
