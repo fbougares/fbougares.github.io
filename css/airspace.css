@@ -1080,10 +1080,10 @@ publication lists
   padding: 100px 0;
 }
 #publication .rounded-list ol {
-    counter-reset: li; /* Initiate a counter */
+    counter-reset: section; /* Initiate a counter */
     list-style: none; /* Remove default numbering */
     *list-style: decimal; /* Keep using default numbering for IE6/7 */
-    font: 20px 'trebuchet MS', 'lucida sans';
+    font: 15px 'trebuchet MS', 'lucida sans';
     padding: 0;
     margin-bottom: 4em;
     text-shadow: 0 1px 0 rgba(255,255,255,.5);
