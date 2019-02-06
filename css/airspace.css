@@ -827,7 +827,7 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
-  font-family:"Amiri, serif";
+  font-family:"Amiri";
   text-transform: capitalize;
 }
 #lang-header .block p {
