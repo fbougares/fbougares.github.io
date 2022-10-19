@@ -6,6 +6,9 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+# Activ
+active: false
+
 # Order that this section appears on the page.
 weight: 40
 
@@ -22,12 +25,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Head of Research
+    company: Elyadata
+    company_url: 'www.elyadata.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Paris - Tunis
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,14 +39,23 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Associate Professor
+    company: Le Mans Université
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Le Mans - France
+    date_start: '2013-09-01'
+    date_end: ''
+    description: Taught machine learning and deep learning; Python programming.
+
+  - title: PostDoc 
+    company: Le Mans Université
+    company_url: ''
+    company_logo: org-x
+    location: Le Mans - France
+    date_start: '2013-09-01'
+    date_end: ''
+    description: Machine Translation.
 
 design:
   columns: '2'

@@ -1,43 +1,41 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title:  Fethi Bougares
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Fethi
+last_name: Bougares
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Le Mans Université - Elyadata
+    url: https://lium.univ-lemans.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Speech Recognition, Machine Translation and Natural Language processing of low resource languages.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Natural Language Processing
+  - Low resource Languages
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Speech Recognition
+      institution: Le Mans Université 
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in Artificial Intelligence and Web
+      institution: UJF and INPG - Grenoble 
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,14 +69,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'fethi.bougares@elyadata.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fethi Bougares is an associate professor of artificial intelligence at Le Mans Université. Fethi has over 10 years of experience in Academia, Research and Industry. His research background is in Speech Recognition, Machine translation, Machine Learning and Natural Language processing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sinon 2022, Fethi Bougares leads the research group at Elyadata, which develops speech recognition systems and NLP solutions for low-resource languages including Arabic dialects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
